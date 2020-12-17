@@ -1,0 +1,12 @@
+Employee_ID,Employee_LName,Employee_FName,Employee_DOB,Employee_Email,Employee_Phone,Employee_Position
+CAH-OWN-001,Cahill,Jack,3/9/1998,jack.cahill5@gmail.com,(303)-638-7022,Owner
+FLE-REG-010,Gretta,Fleet,7/21/1999,gretta.fleet@gmail.com,(344)-594-9342,Register
+GRE-FAS-008,Geen,Sean,12/2/1987,sean.green@gmail.com,(593)-335-2456,Fashion
+MIT-SAL-003,Mittel,Janet,2/2/1987,janet.m@gmail.com,(323)-334-1245,Sales
+OMA-REG-011,Omally,Marcus,9/10/1997,marcus.omally,(394)-994-9053,Register
+POT-MGR-002,Potter,Maxwell,5/15/1998,potter.max@gmail.com,(303)-123-1234,Manager
+RED-FAS-007,Red,Kayla,1/12/1993,kayla.red@gmail.com,(402)-114-5539,Fashion
+SWI-MGR-005,Swinter,Jamie,9/2/1990,jamie.swinter@gmail.com,(883)-123-3434,Manager
+UND-SAL-004,Underwell,Sarah,8/28/1992,s.underwood@gmail.com,(303)-887-1284,Sales
+WEL-AST-006,Welling,Jade,3/2/1995,jade.welling@gmail.com,(303)-887-1842,Assistant
+WIS-MRK-009,Wisely,Ben,11/11/1981,ben.wisely@gmail.com,(303)-858-9294,Marketing

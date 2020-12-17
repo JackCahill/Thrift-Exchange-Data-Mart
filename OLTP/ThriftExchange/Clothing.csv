@@ -1,0 +1,2122 @@
+Clothing_Barcode,Clothing_Category,LocationID,Selling_Price,Clothing_Type,Clothing_Description,Clothing_Brand,Clothing_Size,Clothing_Color,Clothing_Gender,Clothing_Condition
+1,5,1,10,Shirt,Small brown phish shirt - 1997,Concert,S,Brown,Male,Poor
+2,3,1,25,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+3,1,1,15,Shirt,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+4,1,1,25,Pants,classic jenes,Levy,34,Blue,Male,Fair
+5,2,1,30,Pants,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+6,6,1,15,Jacket,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+7,1,3,10,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+8,3,3,20,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+9,6,3,40,Jacket,Puffy winter coat,Volcom,L,Red,Male,Good
+10,1,3,20,Shoes,classic vans,Vans,11,Red,Male,Good
+11,1,3,20,Shoes,classic vans,Vans,10,Black,Male,Good
+12,3,3,45,Shoes,stomper boots,black,8,Black,Female,Great
+13,3,3,20,Dress,light twirly dress,Free People,4,Pink,Female,Good
+14,1,3,10,Jacket,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+15,1,3,17,Sweatshirt,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+16,5,2,7,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+17,5,2,9,Shirt,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+18,5,1,45,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+19,1,1,10,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+20,3,1,40,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+21,4,3,35,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+22,3,3,36,Shoes,High Heels Red,Vanity,6,Red,Female,Great
+23,1,3,18,Shirt,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+24,1,3,22,Shorts,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+25,1,3,30,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+26,6,1,12,Hat,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+27,5,2,22,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+28,5,1,40,Pants,Old trendy black high waisted,Levy,30,Black,Female,Good
+29,1,1,32,Sweatshirt,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+30,1,1,30,Shorts,Short shorts jene style,Levy,29,Blue,Female,Great
+31,5,1,10,Shirt,Small brown phish shirt - 1997,Concert,S,Brown,Male,Poor
+32,3,1,25,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+33,1,1,15,Shirt,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+34,1,1,25,Pants,classic jenes,Levy,34,Blue,Male,Fair
+35,2,3,30,Pants,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+36,6,3,15,Jacket,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+37,1,3,10,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+38,3,3,20,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+39,6,3,40,Jacket,Puffy winter coat,Volcom,L,Red,Male,Good
+40,1,3,20,Shoes,classic vans,Vans,11,Red,Male,Good
+41,1,3,20,Shoes,classic vans,Vans,10,Black,Male,Good
+42,3,3,45,Shoes,stomper boots,black,8,Black,Female,Great
+43,3,3,20,Dress,light twirly dress,Free People,4,Pink,Female,Good
+44,1,3,10,Jacket,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+45,1,3,17,Sweatshirt,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+46,5,3,7,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+47,5,3,9,Shirt,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+48,5,2,45,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+49,1,1,10,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+50,3,2,40,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+51,4,3,35,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+52,3,2,36,Shoes,High Heels Red,Vanity,6,Red,Female,Great
+53,1,2,18,Shirt,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+54,1,2,22,Shorts,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+55,1,2,30,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+56,6,1,12,Hat,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+57,5,1,22,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+58,5,1,40,Pants,Old trendy black high waisted,Levy,30,Black,Female,Good
+59,1,1,32,Sweatshirt,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+60,1,1,30,Shorts,Short shorts jene style,Levy,29,Blue,Female,Great
+61,5,1,10,Shirt,Small brown phish shirt - 1997,Concert,S,Brown,Male,Poor
+62,3,1,25,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+63,1,1,15,Shirt,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+64,1,1,25,Pants,classic jenes,Levy,34,Blue,Male,Fair
+65,2,1,30,Pants,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+66,6,1,15,Jacket,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+67,1,3,10,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+68,3,3,20,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+69,6,3,40,Jacket,Puffy winter coat,Volcom,L,Red,Male,Good
+70,1,3,20,Shoes,classic vans,Vans,11,Red,Male,Good
+71,1,3,20,Shoes,classic vans,Vans,10,Black,Male,Good
+72,3,3,45,Shoes,stomper boots,black,8,Black,Female,Great
+73,3,3,20,Dress,light twirly dress,Free People,4,Pink,Female,Good
+74,1,3,10,Jacket,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+75,1,3,17,Sweatshirt,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+76,5,2,7,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+77,5,2,9,Shirt,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+78,5,1,45,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+79,1,1,10,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+80,3,1,40,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+81,4,3,35,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+82,3,3,36,Shoes,High Heels Red,Vanity,6,Red,Female,Great
+83,1,3,18,Shirt,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+84,1,3,22,Shorts,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+85,1,3,30,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+86,6,1,12,Hat,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+87,5,2,22,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+88,5,1,40,Pants,Old trendy black high waisted,Levy,30,Black,Female,Good
+89,1,1,32,Sweatshirt,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+90,1,1,30,Shorts,Short shorts jene style,Levy,29,Blue,Female,Great
+91,5,1,10,Shirt,Small brown phish shirt - 1997,Concert,S,Brown,Male,Poor
+92,3,1,25,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+93,1,1,15,Shirt,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+94,1,1,25,Pants,classic jenes,Levy,34,Blue,Male,Fair
+95,2,3,30,Pants,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+96,6,3,15,Jacket,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+97,1,3,10,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+98,3,3,20,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+99,6,3,40,Jacket,Puffy winter coat,Volcom,L,Red,Male,Good
+100,1,3,20,Shoes,classic vans,Vans,11,Red,Male,Good
+101,1,3,20,Shoes,classic vans,Vans,10,Black,Male,Good
+102,3,3,45,Shoes,stomper boots,black,8,Black,Female,Great
+103,3,3,20,Dress,light twirly dress,Free People,4,Pink,Female,Good
+104,1,3,10,Jacket,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+105,1,3,17,Sweatshirt,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+106,5,3,7,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+107,5,3,9,Shirt,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+108,5,2,45,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+109,1,1,10,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+110,3,2,40,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+111,4,3,35,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+112,3,2,36,Shoes,High Heels Red,Vanity,6,Red,Female,Great
+113,1,2,18,Shirt,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+114,1,2,22,Shorts,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+115,1,2,30,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+116,6,1,12,Hat,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+117,5,1,22,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+118,5,1,40,Pants,Old trendy black high waisted,Levy,30,Black,Female,Good
+119,1,1,32,Sweatshirt,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+120,1,1,30,Shorts,Short shorts jene style,Levy,29,Blue,Female,Great
+121,6,1,34,Shirt,Small brown phish shirt - 1998,Concert,S,Brown,Male,Poor
+122,4,1,23,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+123,1,2,51,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+124,3,3,21,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+125,2,2,69,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+126,4,2,31,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+127,4,2,58,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+128,4,1,28,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+129,2,1,43,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+130,3,3,53,Shirt,classic vans,Vans,11,Red,Male,Good
+131,1,3,27,Dress,classic vans,Vans,10,Black,Female,Good
+132,5,3,25,Pants,stomper boots,black,8,Black,Female,Great
+133,6,1,42,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+134,1,3,33,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+135,2,1,54,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+136,5,1,56,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+137,2,3,63,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+138,5,3,23,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+139,5,1,62,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+140,1,3,56,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+141,2,1,16,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+142,2,1,43,Jacket,High Heels Red,Vanity,6,Red,Female,Great
+143,4,2,46,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+144,1,3,45,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+145,3,2,58,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+146,5,1,64,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+147,2,1,57,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+148,2,3,54,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+149,5,1,66,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+150,6,3,30,Pants,Short shorts jene style,Levy,29,Blue,Female,Great
+151,2,2,47,Jacket,Small brown phish shirt - 1998,Concert,S,Brown,Male,Poor
+152,3,1,15,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+153,3,1,27,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+154,2,3,55,Sweatshirt,classic jenes,Levy,34,Blue,Male,Fair
+155,2,2,28,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+156,1,1,41,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+157,5,2,18,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+158,1,3,47,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+159,2,2,62,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+160,5,3,46,Jacket,classic vans,Vans,11,Red,Male,Good
+161,3,3,37,Vest,classic vans,Vans,10,Black,Male,Good
+162,1,2,38,Shoes,stomper boots,black,8,Black,Female,Great
+163,4,1,66,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+164,3,1,34,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+165,2,2,44,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+166,1,1,16,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+167,5,1,16,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+168,4,1,29,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+169,3,3,57,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+170,1,2,44,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+171,4,3,48,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+172,1,1,51,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Great
+173,6,1,69,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+174,1,1,61,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+175,3,3,36,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+176,6,1,39,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+177,5,2,66,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+178,1,3,23,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+179,5,1,22,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+180,2,2,58,Shoes,Short shorts jene style,Levy,29,Blue,Female,Great
+181,2,1,33,Sweatshirt,Small brown phish shirt - 1998,Concert,S,Brown,Male,Poor
+182,5,1,34,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Great
+183,1,2,46,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+184,3,2,58,Shirt,classic jenes,Levy,34,Blue,Male,Fair
+185,1,1,27,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+186,2,2,62,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+187,2,3,69,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+188,5,3,28,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+189,4,2,67,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+190,5,3,48,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+191,1,2,40,Shorts,classic vans,Vans,10,Black,Male,Good
+192,2,3,58,Hat,stomper boots,black,8,Black,Female,Great
+193,5,3,69,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+194,6,2,24,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+195,5,1,33,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+196,3,1,20,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+197,2,3,30,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+198,6,2,22,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+199,5,1,39,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+200,2,2,57,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+201,5,2,58,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+202,3,1,62,Shirt,High Heels Red,Vanity,6,Red,Female,Great
+203,3,1,25,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+204,5,2,32,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+205,5,3,43,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+206,2,1,15,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+207,6,1,18,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+208,4,2,61,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+209,4,1,33,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+210,5,3,29,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+211,3,3,20,Shirt,Small brown phish shirt - 1998,Concert,S,Brown,Male,Poor
+212,5,2,56,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+213,2,2,66,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+214,6,3,68,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+215,6,2,32,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+216,3,1,46,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+217,1,3,21,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+218,2,2,64,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+219,1,2,66,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+220,2,1,18,Shirt,classic vans,Vans,11,Red,Male,Good
+221,2,3,62,Dress,classic vans,Vans,10,Black,Female,Good
+222,3,3,66,Pants,stomper boots,black,8,Black,Female,Great
+223,4,1,44,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+224,5,3,66,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+225,6,3,60,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+226,2,3,70,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+227,1,1,21,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+228,3,3,58,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+229,2,1,41,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+230,3,3,64,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+231,1,2,34,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+232,6,3,45,Jacket,High Heels Red,Vanity,6,Red,Female,Great
+233,2,1,15,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+234,4,2,58,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+235,5,2,28,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+236,4,1,43,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+237,6,1,54,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+238,3,3,38,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+239,5,2,55,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+240,3,1,65,Pants,Short shorts jene style,Levy,29,Blue,Female,Great
+241,5,3,53,Jacket,Small brown phish shirt - 1999,Concert,S,Brown,Male,Poor
+242,2,2,31,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+243,3,1,69,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+244,3,3,48,Sweatshirt,classic jenes,Levy,34,Blue,Male,Fair
+245,1,3,48,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+246,4,1,21,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+247,1,3,30,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+248,1,1,49,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+249,3,2,17,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+250,5,1,64,Jacket,classic vans,Vans,11,Red,Male,Good
+251,4,1,69,Vest,classic vans,Vans,10,Black,Male,Good
+252,5,2,49,Shoes,stomper boots,black,8,Black,Female,Great
+253,1,1,43,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+254,3,2,51,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+255,4,1,17,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+256,6,1,68,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+257,4,1,25,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+258,1,2,66,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+259,1,1,50,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+260,4,2,54,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+261,2,1,54,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+262,6,3,15,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Great
+263,5,2,66,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+264,1,2,19,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+265,6,2,46,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+266,5,3,26,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+267,4,2,66,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+268,4,1,22,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+269,1,2,38,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+270,4,2,33,Shoes,Short shorts jene style,Levy,29,Blue,Female,Great
+271,2,2,43,Sweatshirt,Small brown phish shirt - 1999,Concert,S,Brown,Male,Poor
+272,2,2,30,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Great
+273,1,2,21,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+274,1,1,68,Shirt,classic jenes,Levy,34,Blue,Male,Fair
+275,4,2,48,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+276,5,1,60,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+277,5,2,51,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+278,5,2,64,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+279,1,1,22,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+280,6,3,57,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+281,6,3,45,Shorts,classic vans,Vans,10,Black,Male,Good
+282,5,2,19,Hat,stomper boots,black,8,Black,Female,Great
+283,3,3,63,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+284,4,1,18,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+285,3,3,65,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+286,3,1,65,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+287,4,2,19,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+288,3,2,70,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+289,2,3,30,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+290,2,1,39,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+291,5,1,48,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+292,3,2,18,Shirt,High Heels Red,Vanity,6,Red,Female,Great
+293,4,1,23,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+294,5,2,45,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+295,4,1,26,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+296,5,3,35,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+297,3,3,28,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+298,5,3,54,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+299,4,2,16,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+300,3,1,15,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+301,6,2,48,Shirt,Small brown phish shirt - 1999,Concert,S,Brown,Male,Poor
+302,4,2,63,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+303,2,3,37,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+304,3,1,47,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+305,4,3,52,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+306,6,3,22,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+307,5,2,34,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+308,4,2,21,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+309,3,1,38,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+310,1,1,62,Shirt,classic vans,Vans,11,Red,Male,Good
+311,6,3,59,Dress,classic vans,Vans,10,Black,Female,Good
+312,2,3,56,Pants,stomper boots,black,8,Black,Female,Great
+313,1,3,63,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+314,6,3,34,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+315,6,3,21,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+316,4,2,38,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+317,5,2,22,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+318,5,1,40,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+319,3,2,46,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+320,1,2,69,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+321,5,2,57,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+322,3,3,55,Jacket,High Heels Red,Vanity,6,Red,Female,Great
+323,5,1,49,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+324,1,2,44,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+325,3,1,28,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+326,6,1,38,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+327,4,1,24,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+328,5,3,44,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+329,5,3,51,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+330,6,3,65,Pants,Short shorts jene style,Levy,29,Blue,Female,Great
+331,1,3,68,Jacket,Small brown phish shirt - 1999,Concert,S,Brown,Male,Poor
+332,3,2,40,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+333,1,2,64,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+334,3,1,35,Sweatshirt,classic jenes,Levy,34,Blue,Male,Fair
+335,4,1,39,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+336,5,3,58,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+337,5,3,69,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+338,3,3,40,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+339,6,1,60,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+340,1,1,44,Jacket,classic vans,Vans,11,Red,Male,Good
+341,5,3,57,Vest,classic vans,Vans,10,Black,Male,Good
+342,5,1,67,Shoes,stomper boots,black,8,Black,Female,Great
+343,2,2,30,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+344,3,1,33,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+345,5,2,66,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+346,6,2,36,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+347,4,1,47,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+348,5,3,50,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+349,3,3,49,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+350,5,1,50,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+351,5,3,40,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+352,1,3,21,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Great
+353,5,2,39,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+354,1,3,40,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+355,3,3,53,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+356,3,1,22,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+357,1,1,34,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+358,3,1,26,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+359,3,2,68,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+360,4,1,48,Shoes,Short shorts jene style,Levy,29,Blue,Female,Great
+361,3,1,47,Sweatshirt,Small brown phish shirt - 2000,Concert,S,Brown,Male,Poor
+362,4,1,43,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Great
+363,5,3,36,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+364,5,3,38,Shirt,classic jenes,Levy,34,Blue,Male,Fair
+365,2,1,59,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+366,4,3,55,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+367,3,2,54,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+368,1,1,29,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+369,6,3,48,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+370,1,3,53,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+371,6,1,44,Shorts,classic vans,Vans,10,Black,Male,Good
+372,5,3,20,Hat,stomper boots,black,8,Black,Female,Great
+373,3,3,19,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+374,3,1,63,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+375,2,1,70,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+376,5,3,28,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+377,6,2,33,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+378,3,1,50,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+379,4,3,42,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+380,5,2,65,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+381,6,1,46,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+382,6,1,64,Shirt,High Heels Red,Vanity,6,Red,Female,Great
+383,2,2,21,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+384,4,1,24,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+385,4,3,36,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+386,4,1,24,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+387,3,3,28,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+388,3,3,55,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+389,6,3,59,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+390,4,1,69,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+391,4,1,43,Shirt,Small brown phish shirt - 2000,Concert,S,Brown,Male,Poor
+392,1,2,30,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+393,2,3,63,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+394,6,2,54,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+395,4,2,53,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+396,6,1,48,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+397,3,3,33,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+398,4,2,29,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+399,5,3,66,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+400,6,3,44,Shirt,classic vans,Vans,11,Red,Male,Good
+401,5,2,16,Dress,classic vans,Vans,10,Black,Female,Good
+402,1,2,31,Pants,stomper boots,black,8,Black,Female,Great
+403,3,1,68,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+404,2,1,52,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+405,6,2,42,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+406,5,1,53,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+407,3,1,28,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+408,6,2,65,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+409,1,3,67,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+410,3,1,54,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+411,1,2,44,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+412,6,2,59,Jacket,High Heels Red,Vanity,6,Red,Female,Great
+413,3,3,46,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+414,2,3,41,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+415,3,2,62,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+416,5,1,19,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+417,2,2,66,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+418,5,3,36,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+419,4,2,24,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+420,4,3,28,Pants,Short shorts jene style,Levy,29,Blue,Female,Great
+421,4,1,60,Jacket,Small brown phish shirt - 2000,Concert,S,Brown,Male,Poor
+422,3,2,26,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+423,6,3,63,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+424,1,1,62,Sweatshirt,classic jenes,Levy,34,Blue,Male,Fair
+425,5,2,46,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+426,1,3,18,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+427,4,3,62,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+428,6,3,30,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+429,6,1,65,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+430,5,1,45,Jacket,classic vans,Vans,11,Red,Male,Good
+431,1,1,16,Vest,classic vans,Vans,10,Black,Male,Good
+432,2,3,59,Shoes,stomper boots,black,8,Black,Female,Great
+433,1,1,17,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+434,4,1,55,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+435,2,1,59,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+436,4,3,53,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+437,1,3,37,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+438,5,3,17,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+439,4,3,21,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+440,3,3,52,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+441,2,1,54,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+442,1,1,36,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Great
+443,3,1,53,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+444,3,1,47,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+445,3,1,16,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+446,1,2,58,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+447,5,3,49,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+448,6,1,26,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+449,4,1,15,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+450,6,1,68,Shoes,Short shorts jene style,Levy,29,Blue,Female,Great
+451,5,2,20,Sweatshirt,Small brown phish shirt - 2000,Concert,S,Brown,Male,Poor
+452,5,1,59,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Great
+453,2,3,67,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+454,6,3,31,Shirt,classic jenes,Levy,34,Blue,Male,Fair
+455,3,3,60,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+456,2,2,49,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+457,2,2,61,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+458,5,1,33,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+459,6,2,45,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+460,2,3,64,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+461,3,3,21,Shorts,classic vans,Vans,10,Black,Male,Good
+462,4,3,47,Hat,stomper boots,black,8,Black,Female,Great
+463,4,2,30,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+464,3,2,65,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+465,2,2,28,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+466,2,3,51,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+467,4,3,60,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+468,5,3,22,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+469,1,1,68,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+470,5,2,58,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+471,4,3,66,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+472,6,3,24,Shirt,High Heels Red,Vanity,6,Red,Female,Great
+473,1,2,46,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+474,1,3,42,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+475,2,3,40,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+476,1,1,65,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+477,4,1,62,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+478,2,1,55,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+479,3,3,26,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+480,4,3,21,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+481,5,1,23,Shirt,Small brown phish shirt - 2001,Concert,S,Brown,Male,Poor
+482,1,1,27,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+483,1,1,29,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+484,3,3,39,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+485,6,1,26,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+486,5,1,40,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+487,2,2,48,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+488,4,2,37,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+489,5,1,15,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+490,5,1,16,Shirt,classic vans,Vans,11,Red,Male,Good
+491,2,1,37,Dress,classic vans,Vans,10,Black,Female,Good
+492,3,2,52,Pants,stomper boots,black,8,Black,Female,Poor
+493,5,2,17,Jacket,light twirly dress,Free People,4,Pink,Female,Great
+494,3,1,20,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+495,1,2,37,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+496,3,1,27,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+497,5,2,48,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Poor
+498,5,2,69,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+499,5,3,21,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+500,3,2,50,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+501,4,1,46,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+502,6,2,34,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+503,6,2,18,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+504,4,2,46,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+505,2,1,28,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+506,5,2,37,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+507,1,3,53,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+508,5,3,59,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Fair
+509,2,3,23,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Great
+510,5,3,45,Pants,Short shorts jene style,Levy,29,Blue,Female,Poor
+511,2,3,40,Jacket,Small brown phish shirt - 2001,Concert,S,Brown,Male,Good
+512,2,2,24,Vest,light purple flowery dress,Lulus,4,Purple,Female,Fair
+513,2,3,61,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+514,4,3,31,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+515,2,2,60,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+516,4,3,21,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Great
+517,4,1,46,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+518,4,2,28,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+519,5,3,53,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+520,5,2,27,Jacket,classic vans,Vans,11,Red,Male,Fair
+521,3,2,39,Vest,classic vans,Vans,10,Black,Male,Great
+522,4,2,49,Shoes,stomper boots,black,8,Black,Female,Poor
+523,5,1,31,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+524,2,3,32,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+525,2,2,67,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+526,3,1,22,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+527,5,2,52,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+528,2,2,44,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+529,1,1,54,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+530,2,1,64,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+531,4,3,28,Shoes,Old cowboy boots,Tough,13,Brown,Male,Fair
+532,1,2,20,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Poor
+533,1,1,30,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+534,1,2,45,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+535,1,3,31,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+536,2,1,70,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+537,6,3,28,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+538,1,3,39,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Great
+539,4,3,27,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Poor
+540,3,1,39,Shoes,Short shorts jene style,Levy,29,Blue,Female,Great
+541,1,2,63,Sweatshirt,Small brown phish shirt - 2001,Concert,S,Brown,Male,Good
+542,6,2,69,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+543,3,1,45,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+544,4,3,48,Shirt,classic jenes,Levy,34,Blue,Male,Poor
+545,3,3,61,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+546,2,2,47,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+547,1,2,43,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+548,6,3,49,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+549,5,2,70,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+550,1,1,61,Sweatshirt,classic vans,Vans,11,Red,Male,Great
+551,1,1,51,Shorts,classic vans,Vans,10,Black,Male,Good
+552,4,3,39,Hat,stomper boots,black,8,Black,Female,Fair
+553,5,2,46,Shirt,light twirly dress,Free People,4,Pink,Female,Fair
+554,3,1,55,Dress,Classic jene jacket,Levy,L,Blue,Female,Poor
+555,2,3,41,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+556,2,2,43,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+557,4,3,24,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Poor
+558,2,2,19,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+559,4,1,35,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+560,5,3,18,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+561,6,3,48,Hat,Old cowboy boots,Tough,13,Brown,Male,Fair
+562,6,1,50,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+563,5,1,62,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Great
+564,2,1,69,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+565,3,1,45,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+566,4,1,30,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+567,4,3,69,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+568,5,2,61,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+569,2,3,51,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Poor
+570,3,3,64,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+571,2,3,36,Shirt,Small brown phish shirt - 2001,Concert,S,Brown,Male,Good
+572,5,3,67,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+573,1,1,15,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+574,2,1,59,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+575,5,2,43,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+576,1,2,40,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+577,2,3,32,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+578,5,1,24,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+579,6,1,34,Hat,Puffy winter coat,Volcom,L,Red,Male,Poor
+580,3,1,68,Shirt,classic vans,Vans,11,Red,Male,Good
+581,5,3,47,Dress,classic vans,Vans,10,Black,Female,Fair
+582,3,3,27,Pants,stomper boots,black,8,Black,Female,Good
+583,3,3,35,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+584,2,1,23,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+585,6,3,22,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+586,1,3,68,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+587,6,2,53,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+588,4,2,24,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+589,4,3,50,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+590,2,1,45,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+591,1,2,32,Pants,Old cowboy boots,Tough,13,Brown,Male,Fair
+592,5,2,39,Jacket,High Heels Red,Vanity,6,Red,Female,Poor
+593,2,2,58,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+594,3,1,34,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+595,2,2,49,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+596,2,3,39,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+597,1,1,16,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+598,1,1,24,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+599,6,2,69,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+600,4,2,26,Pants,Short shorts jene style,Levy,29,Blue,Female,Poor
+601,1,1,20,Jacket,Small brown phish shirt - 2002,Concert,S,Brown,Male,Good
+602,3,3,36,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+603,3,1,25,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+604,4,2,29,Sweatshirt,classic jenes,Levy,34,Blue,Male,Poor
+605,5,3,27,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+606,2,3,57,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+607,3,1,53,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+608,1,2,60,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+609,5,2,27,Pants,Puffy winter coat,Volcom,L,Red,Male,Poor
+610,3,3,43,Jacket,classic vans,Vans,11,Red,Male,Good
+611,3,1,31,Vest,classic vans,Vans,10,Black,Male,Fair
+612,2,1,33,Shoes,stomper boots,black,8,Black,Female,Good
+613,4,3,54,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+614,4,1,28,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Good
+615,2,2,31,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+616,4,3,70,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+617,4,1,29,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+618,1,1,63,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+619,4,1,67,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+620,6,2,45,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+621,3,1,41,Shoes,Old cowboy boots,Tough,13,Brown,Male,Fair
+622,1,2,59,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Poor
+623,4,1,63,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Great
+624,6,1,43,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+625,3,2,40,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+626,6,1,40,Dress,Carhart logo hat,Carhart,M,Brown,Female,Fair
+627,5,3,32,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+628,6,2,62,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Great
+629,4,3,65,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+630,2,1,49,Shoes,Short shorts jene style,Levy,29,Blue,Female,Poor
+631,6,3,61,Sweatshirt,Small brown phish shirt - 2002,Concert,S,Brown,Male,Good
+632,1,3,33,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+633,4,3,34,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+634,3,3,68,Shirt,classic jenes,Levy,34,Blue,Male,Poor
+635,1,3,44,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+636,1,2,31,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+637,4,1,63,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+638,4,1,56,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+639,6,1,57,Shoes,Puffy winter coat,Volcom,L,Red,Male,Poor
+640,3,2,35,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+641,2,2,24,Shorts,classic vans,Vans,10,Black,Male,Fair
+642,1,3,70,Hat,stomper boots,black,8,Black,Female,Good
+643,3,3,24,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+644,3,2,26,Dress,Classic jene jacket,Levy,L,Blue,Female,Good
+645,6,3,64,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+646,1,2,67,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+647,2,1,44,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+648,5,3,36,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+649,3,1,50,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+650,5,1,21,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+651,4,1,70,Hat,Old cowboy boots,Tough,13,Brown,Male,Fair
+652,6,1,25,Shirt,High Heels Red,Vanity,6,Red,Female,Poor
+653,6,1,45,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Great
+654,2,2,40,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+655,2,2,57,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+656,2,3,64,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+657,4,3,30,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+658,1,3,26,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+659,1,2,44,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+660,5,3,66,Hat,Short shorts jene style,Levy,29,Blue,Female,Poor
+661,3,2,68,Shirt,Small brown phish shirt - 2002,Concert,S,Brown,Male,Good
+662,5,1,68,Dress,light purple flowery dress,Lulus,4,Purple,Female,Good
+663,6,1,33,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+664,2,3,42,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+665,4,1,16,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+666,4,2,35,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+667,2,3,24,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+668,2,2,16,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+669,2,3,58,Hat,Puffy winter coat,Volcom,L,Red,Male,Poor
+670,5,2,46,Shirt,classic vans,Vans,11,Red,Male,Good
+671,4,3,58,Dress,classic vans,Vans,10,Black,Female,Fair
+672,4,2,34,Pants,stomper boots,black,8,Black,Female,Good
+673,5,2,41,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+674,4,1,67,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+675,1,3,41,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+676,4,3,21,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+677,4,2,68,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+678,4,2,37,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+679,2,1,27,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+680,5,2,53,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+681,2,3,54,Pants,Old cowboy boots,Tough,13,Brown,Male,Fair
+682,1,1,28,Jacket,High Heels Red,Vanity,6,Red,Female,Poor
+683,5,1,37,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+684,1,3,26,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+685,3,3,55,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+686,3,2,34,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+687,6,3,61,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+688,6,3,54,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+689,5,2,23,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+690,6,1,34,Pants,Short shorts jene style,Levy,29,Blue,Female,Poor
+691,5,2,59,Jacket,Small brown phish shirt - 2002,Concert,S,Brown,Male,Good
+692,6,1,25,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+693,5,1,40,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+694,5,3,46,Sweatshirt,classic jenes,Levy,34,Blue,Male,Poor
+695,1,1,36,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+696,2,1,67,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+697,6,2,30,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+698,6,2,26,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+699,5,3,33,Pants,Puffy winter coat,Volcom,L,Red,Male,Poor
+700,2,1,62,Jacket,classic vans,Vans,11,Red,Male,Good
+701,1,3,66,Vest,classic vans,Vans,10,Black,Male,Fair
+702,4,1,42,Shoes,stomper boots,black,8,Black,Female,Good
+703,4,2,63,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+704,6,3,58,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Good
+705,4,1,32,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+706,1,3,16,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+707,3,3,53,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+708,2,2,21,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+709,6,2,33,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+710,4,3,64,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Poor
+711,3,1,67,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+712,4,3,47,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Fair
+713,1,1,46,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Good
+714,2,3,48,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+715,4,1,38,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+716,1,2,44,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+717,2,2,28,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+718,1,2,17,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Poor
+719,6,1,37,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+720,5,1,16,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+721,1,2,22,Sweatshirt,Small brown phish shirt - 2003,Concert,S,Brown,Male,Fair
+722,5,2,59,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Great
+723,1,2,21,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+724,2,2,21,Shirt,classic jenes,Levy,34,Blue,Male,Good
+725,2,2,41,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+726,4,2,46,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+727,6,3,69,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+728,6,2,19,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+729,5,1,17,Shoes,Puffy winter coat,Volcom,L,Red,Male,Great
+730,4,1,38,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+731,1,2,20,Shorts,classic vans,Vans,10,Black,Male,Great
+732,3,3,34,Hat,stomper boots,black,8,Black,Female,Good
+733,6,3,46,Shirt,light twirly dress,Free People,4,Pink,Female,Fair
+734,4,2,63,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+735,2,1,30,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+736,3,2,49,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+737,2,3,67,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+738,4,1,60,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+739,1,1,31,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+740,4,2,55,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+741,3,3,44,Hat,Old cowboy boots,Tough,13,Brown,Male,Great
+742,2,1,52,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+743,6,1,39,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+744,4,3,60,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+745,6,1,18,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+746,5,3,24,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+747,6,1,21,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+748,1,2,58,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+749,4,1,25,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+750,1,1,53,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+751,5,3,42,Shirt,Small brown phish shirt - 2003,Concert,S,Brown,Male,Great
+752,4,2,16,Dress,light purple flowery dress,Lulus,4,Purple,Female,Poor
+753,3,1,66,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+754,2,2,50,Jacket,classic jenes,Levy,34,Blue,Male,Good
+755,4,3,70,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+756,2,1,58,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Great
+757,3,2,27,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+758,6,1,41,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+759,2,3,63,Hat,Puffy winter coat,Volcom,L,Red,Male,Fair
+760,5,2,53,Shirt,classic vans,Vans,11,Red,Male,Good
+761,5,1,37,Dress,classic vans,Vans,10,Black,Female,Good
+762,5,2,18,Pants,stomper boots,black,8,Black,Female,Good
+763,6,1,57,Jacket,light twirly dress,Free People,4,Pink,Female,Great
+764,5,2,50,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+765,5,1,67,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+766,5,1,54,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+767,1,1,24,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Poor
+768,5,2,70,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+769,5,1,21,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+770,2,2,45,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Poor
+771,4,1,30,Pants,Old cowboy boots,Tough,13,Brown,Male,Great
+772,2,3,47,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+773,1,1,53,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+774,6,2,70,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+775,6,1,52,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+776,3,2,47,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+777,6,3,65,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+778,5,1,60,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+779,2,3,30,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+780,3,1,68,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+781,1,3,50,Jacket,Small brown phish shirt - 2003,Concert,S,Brown,Male,Great
+782,5,1,64,Vest,light purple flowery dress,Lulus,4,Purple,Female,Poor
+783,6,2,25,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+784,3,3,27,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+785,1,1,58,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+786,6,1,27,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Great
+787,2,3,42,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+788,4,2,68,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+789,2,1,52,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+790,5,1,70,Jacket,classic vans,Vans,11,Red,Male,Fair
+791,1,1,48,Vest,classic vans,Vans,10,Black,Male,Great
+792,2,2,36,Shoes,stomper boots,black,8,Black,Female,Poor
+793,2,3,59,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+794,6,1,32,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+795,4,1,34,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+796,5,3,60,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+797,4,2,40,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+798,1,3,69,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+799,6,1,17,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+800,5,1,25,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+801,6,3,45,Shoes,Old cowboy boots,Tough,13,Brown,Male,Fair
+802,2,1,61,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Poor
+803,3,1,35,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+804,5,3,26,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+805,4,1,29,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+806,3,3,45,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+807,2,2,23,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+808,4,1,43,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Great
+809,4,3,54,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+810,5,2,58,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+811,6,3,51,Sweatshirt,Small brown phish shirt - 2003,Concert,S,Brown,Male,Great
+812,1,1,63,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+813,5,2,70,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+814,4,1,60,Shirt,classic jenes,Levy,34,Blue,Male,Good
+815,2,1,45,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+816,6,3,51,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Great
+817,3,3,19,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+818,4,1,26,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+819,2,2,57,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+820,6,2,42,Sweatshirt,classic vans,Vans,11,Red,Male,Fair
+821,4,1,29,Shorts,classic vans,Vans,10,Black,Male,Great
+822,2,3,58,Hat,stomper boots,black,8,Black,Female,Poor
+823,2,3,19,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+824,6,3,62,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+825,6,1,19,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+826,3,2,41,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+827,5,3,33,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+828,6,2,33,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+829,6,2,49,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+830,6,2,42,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+831,1,1,60,Hat,Old cowboy boots,Tough,13,Brown,Male,Fair
+832,5,3,55,Shirt,High Heels Red,Vanity,6,Red,Female,Poor
+833,4,2,24,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+834,4,2,43,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+835,1,2,49,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+836,4,3,15,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+837,5,2,35,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+838,5,1,68,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+839,3,1,38,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+840,1,2,59,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+841,5,2,37,Shirt,Small brown phish shirt - 2004,Concert,S,Brown,Male,Great
+842,5,3,32,Dress,light purple flowery dress,Lulus,4,Purple,Female,Good
+843,3,3,61,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+844,2,1,57,Jacket,classic jenes,Levy,34,Blue,Male,Good
+845,2,3,23,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+846,1,2,31,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Great
+847,6,2,60,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+848,4,1,67,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+849,5,1,29,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+850,5,3,47,Shirt,classic vans,Vans,11,Red,Male,Fair
+851,4,3,21,Dress,classic vans,Vans,10,Black,Female,Great
+852,3,2,48,Pants,stomper boots,black,8,Black,Female,Poor
+853,6,1,56,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+854,6,1,20,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+855,4,3,19,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+856,6,1,67,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+857,3,3,44,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+858,5,2,22,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+859,2,1,37,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+860,3,3,33,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+861,6,2,40,Pants,Old cowboy boots,Tough,13,Brown,Male,Fair
+862,6,1,65,Jacket,High Heels Red,Vanity,6,Red,Female,Poor
+863,1,1,39,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+864,3,2,48,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+865,6,3,63,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+866,5,3,25,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+867,2,1,35,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+868,2,2,58,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+869,5,3,54,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+870,4,3,57,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+871,6,3,60,Jacket,Small brown phish shirt - 2004,Concert,S,Brown,Male,Great
+872,5,2,16,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+873,1,3,49,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+874,1,2,42,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+875,1,1,61,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+876,1,1,64,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Great
+877,1,1,56,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+878,5,2,22,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+879,2,2,36,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+880,5,3,53,Jacket,classic vans,Vans,11,Red,Male,Fair
+881,3,3,20,Vest,classic vans,Vans,10,Black,Male,Great
+882,4,1,50,Shoes,stomper boots,black,8,Black,Female,Poor
+883,3,1,45,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+884,5,3,29,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+885,2,2,28,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+886,5,2,54,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+887,5,1,48,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+888,2,1,43,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+889,1,2,35,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+890,3,2,36,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+891,3,3,17,Shoes,Old cowboy boots,Tough,13,Brown,Male,Fair
+892,3,3,40,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Poor
+893,3,2,66,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+894,1,3,31,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+895,2,2,29,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+896,6,2,67,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+897,3,2,27,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+898,3,2,50,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Great
+899,4,3,57,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+900,3,1,63,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+901,2,3,38,Sweatshirt,Small brown phish shirt - 2004,Concert,S,Brown,Male,Great
+902,2,2,39,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+903,2,3,58,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+904,6,2,30,Shirt,classic jenes,Levy,34,Blue,Male,Good
+905,4,3,36,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+906,5,3,57,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Great
+907,4,3,41,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+908,5,1,15,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+909,4,3,15,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+910,1,1,50,Sweatshirt,classic vans,Vans,11,Red,Male,Fair
+911,1,2,60,Shorts,classic vans,Vans,10,Black,Male,Great
+912,4,2,26,Hat,stomper boots,black,8,Black,Female,Poor
+913,3,1,68,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+914,3,1,59,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+915,2,2,50,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+916,6,3,66,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+917,5,3,65,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+918,4,2,46,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+919,3,1,22,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+920,5,2,45,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+921,1,1,29,Hat,Old cowboy boots,Tough,13,Brown,Male,Fair
+922,4,3,23,Shirt,High Heels Red,Vanity,6,Red,Female,Great
+923,5,1,18,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Poor
+924,6,3,40,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+925,1,3,55,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+926,6,2,66,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+927,3,2,50,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+928,2,2,35,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+929,2,2,18,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+930,3,1,32,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+931,5,3,43,Shirt,Small brown phish shirt - 2004,Concert,S,Brown,Male,Poor
+932,4,3,27,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+933,1,2,68,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+934,2,2,56,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+935,6,1,69,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+936,5,3,48,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+937,3,1,29,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+938,5,3,70,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+939,1,2,26,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+940,4,3,67,Shirt,classic vans,Vans,11,Red,Male,Good
+941,6,1,60,Dress,classic vans,Vans,10,Black,Female,Good
+942,1,3,17,Pants,stomper boots,black,8,Black,Female,Great
+943,2,3,42,Jacket,light twirly dress,Free People,4,Pink,Female,Poor
+944,2,3,52,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+945,4,3,22,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+946,1,2,21,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+947,4,3,55,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+948,1,3,63,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+949,2,2,49,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+950,3,1,20,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+951,6,2,24,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+952,3,3,21,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+953,3,3,42,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Good
+954,4,1,62,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+955,5,3,28,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+956,6,2,57,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+957,1,2,47,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+958,3,3,20,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+959,3,1,68,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+960,3,3,18,Pants,Short shorts jene style,Levy,29,Blue,Female,Fair
+961,5,3,44,Jacket,Small brown phish shirt - 2005,Concert,S,Brown,Male,Poor
+962,4,3,16,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+963,6,1,66,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+964,4,3,32,Sweatshirt,classic jenes,Levy,34,Blue,Male,Great
+965,3,3,64,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Poor
+966,2,2,48,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Great
+967,2,3,29,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+968,1,1,65,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+969,3,3,61,Pants,Puffy winter coat,Volcom,L,Red,Male,Great
+970,4,1,22,Jacket,classic vans,Vans,11,Red,Male,Poor
+971,3,3,58,Vest,classic vans,Vans,10,Black,Male,Good
+972,1,1,26,Shoes,stomper boots,black,8,Black,Female,Fair
+973,1,3,29,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+974,3,1,32,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Good
+975,5,3,23,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+976,2,3,70,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+977,4,1,32,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+978,2,2,15,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+979,4,3,26,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+980,2,3,28,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Poor
+981,3,2,24,Shoes,Old cowboy boots,Tough,13,Brown,Male,Fair
+982,5,3,64,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Fair
+983,2,2,16,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Poor
+984,1,2,60,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+985,1,3,56,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+986,4,2,24,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+987,1,2,41,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+988,1,1,56,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+989,2,3,35,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+990,2,1,50,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+991,5,1,65,Sweatshirt,Small brown phish shirt - 2005,Concert,S,Brown,Male,Poor
+992,6,2,59,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+993,6,1,30,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+994,4,2,35,Shirt,classic jenes,Levy,34,Blue,Male,Great
+995,5,2,66,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Poor
+996,5,3,66,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Great
+997,3,2,40,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+998,2,3,56,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+999,2,3,44,Shoes,Puffy winter coat,Volcom,L,Red,Male,Great
+1000,5,1,30,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+1001,2,2,63,Shorts,classic vans,Vans,10,Black,Male,Great
+1002,3,3,49,Hat,stomper boots,black,8,Black,Female,Good
+1003,2,1,66,Shirt,light twirly dress,Free People,4,Pink,Female,Fair
+1004,5,2,52,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+1005,4,1,55,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1006,6,2,30,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1007,4,3,45,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+1008,5,2,23,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1009,5,3,57,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1010,4,1,22,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1011,1,2,34,Hat,Old cowboy boots,Tough,13,Brown,Male,Great
+1012,6,1,47,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+1013,3,1,37,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1014,5,2,26,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1015,6,1,48,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+1016,3,3,48,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1017,4,3,50,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1018,5,2,20,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1019,5,2,56,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+1020,1,2,48,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+1021,5,1,60,Shirt,Small brown phish shirt - 2005,Concert,S,Brown,Male,Great
+1022,5,1,30,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1023,4,1,38,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1024,6,3,61,Jacket,classic jenes,Levy,34,Blue,Male,Great
+1025,4,3,45,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1026,1,3,27,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+1027,2,3,16,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1028,6,1,51,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+1029,3,2,61,Hat,Puffy winter coat,Volcom,L,Red,Male,Great
+1030,6,1,24,Shirt,classic vans,Vans,11,Red,Male,Poor
+1031,2,1,17,Dress,classic vans,Vans,10,Black,Female,Great
+1032,2,1,57,Pants,stomper boots,black,8,Black,Female,Good
+1033,6,2,68,Jacket,light twirly dress,Free People,4,Pink,Female,Fair
+1034,6,1,61,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1035,2,1,46,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1036,5,1,51,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1037,1,3,38,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+1038,2,3,30,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1039,6,2,28,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1040,1,2,15,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1041,3,2,25,Pants,Old cowboy boots,Tough,13,Brown,Male,Great
+1042,1,3,66,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+1043,2,3,30,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1044,2,3,22,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1045,2,1,42,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+1046,4,3,45,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1047,3,2,18,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1048,2,2,26,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1049,2,3,22,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Great
+1050,3,2,39,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+1051,1,3,64,Jacket,Small brown phish shirt - 2005,Concert,S,Brown,Male,Great
+1052,1,3,54,Vest,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1053,5,1,52,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1054,6,1,65,Sweatshirt,classic jenes,Levy,34,Blue,Male,Great
+1055,2,3,65,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1056,6,3,62,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+1057,3,3,18,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1058,1,3,54,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Good
+1059,4,2,29,Pants,Puffy winter coat,Volcom,L,Red,Male,Great
+1060,5,1,44,Jacket,classic vans,Vans,11,Red,Male,Poor
+1061,1,3,17,Vest,classic vans,Vans,10,Black,Male,Great
+1062,1,3,20,Shoes,stomper boots,black,8,Black,Female,Good
+1063,1,2,30,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Fair
+1064,5,3,18,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1065,5,3,53,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1066,2,3,53,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1067,2,3,26,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+1068,6,3,20,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1069,4,1,48,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1070,2,3,67,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1071,5,2,67,Shoes,Old cowboy boots,Tough,13,Brown,Male,Great
+1072,2,1,47,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1073,6,3,59,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1074,4,2,39,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1075,3,1,68,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+1076,6,2,55,Dress,Carhart logo hat,Carhart,M,Brown,Female,Fair
+1077,6,2,30,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1078,2,1,50,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1079,2,2,64,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+1080,2,2,64,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+1081,5,2,28,Sweatshirt,Small brown phish shirt - 2006,Concert,S,Brown,Male,Great
+1082,4,3,50,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1083,1,3,55,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1084,5,1,33,Shirt,classic jenes,Levy,34,Blue,Male,Great
+1085,3,3,24,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1086,5,2,48,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+1087,1,3,28,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1088,1,1,61,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+1089,5,3,61,Shoes,Puffy winter coat,Volcom,L,Red,Male,Great
+1090,4,3,67,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+1091,2,3,29,Shorts,classic vans,Vans,10,Black,Male,Great
+1092,4,1,68,Hat,stomper boots,black,8,Black,Female,Good
+1093,3,3,50,Shirt,light twirly dress,Free People,4,Pink,Female,Fair
+1094,1,2,25,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+1095,2,3,19,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1096,3,1,20,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1097,3,2,36,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+1098,5,2,27,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1099,3,3,37,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1100,2,2,39,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1101,4,3,36,Hat,Old cowboy boots,Tough,13,Brown,Male,Great
+1102,3,3,70,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+1103,5,3,51,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1104,2,2,15,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1105,1,1,68,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+1106,6,1,30,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1107,2,1,62,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1108,2,3,30,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1109,4,1,58,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+1110,6,3,37,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+1111,4,2,58,Shirt,Small brown phish shirt - 2006,Concert,S,Brown,Male,Great
+1112,2,1,20,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1113,2,1,29,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1114,3,2,48,Jacket,classic jenes,Levy,34,Blue,Male,Great
+1115,6,3,54,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1116,4,2,19,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Poor
+1117,5,2,32,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1118,1,3,22,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+1119,6,2,39,Hat,Puffy winter coat,Volcom,L,Red,Male,Great
+1120,3,3,52,Shirt,classic vans,Vans,11,Red,Male,Poor
+1121,1,1,42,Dress,classic vans,Vans,10,Black,Female,Great
+1122,3,3,20,Pants,stomper boots,black,8,Black,Female,Good
+1123,2,3,20,Jacket,light twirly dress,Free People,4,Pink,Female,Fair
+1124,5,1,24,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1125,1,3,23,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1126,5,3,15,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1127,4,3,32,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+1128,2,2,36,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1129,5,1,50,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1130,4,1,47,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1131,5,1,50,Pants,Old cowboy boots,Tough,13,Brown,Male,Poor
+1132,1,1,39,Jacket,High Heels Red,Vanity,6,Red,Female,Great
+1133,4,1,15,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1134,4,1,42,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1135,2,2,18,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+1136,2,3,43,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Poor
+1137,3,3,57,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1138,2,2,50,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Fair
+1139,2,2,44,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+1140,5,2,39,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+1141,4,3,33,Jacket,Small brown phish shirt - 2006,Concert,S,Brown,Male,Good
+1142,6,1,34,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+1143,3,1,56,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1144,1,1,66,Sweatshirt,classic jenes,Levy,34,Blue,Male,Poor
+1145,2,1,34,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1146,5,2,23,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1147,4,3,19,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+1148,2,1,70,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+1149,2,2,64,Pants,Puffy winter coat,Volcom,L,Red,Male,Poor
+1150,5,3,15,Jacket,classic vans,Vans,11,Red,Male,Good
+1151,2,1,58,Vest,classic vans,Vans,10,Black,Male,Fair
+1152,6,1,33,Shoes,stomper boots,black,8,Black,Female,Good
+1153,5,2,38,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+1154,5,2,63,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1155,4,1,60,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1156,1,3,55,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1157,4,2,66,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Great
+1158,5,1,41,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1159,1,1,18,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+1160,1,1,53,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1161,1,1,22,Shoes,Old cowboy boots,Tough,13,Brown,Male,Poor
+1162,2,2,54,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1163,5,3,51,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1164,5,1,25,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1165,3,3,39,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1166,5,3,38,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+1167,4,2,68,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+1168,6,3,67,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+1169,1,3,66,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1170,6,3,39,Shoes,Short shorts jene style,Levy,29,Blue,Female,Fair
+1171,2,1,22,Sweatshirt,Small brown phish shirt - 2006,Concert,S,Brown,Male,Poor
+1172,1,2,16,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1173,4,1,25,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1174,5,3,63,Shirt,classic jenes,Levy,34,Blue,Male,Poor
+1175,3,2,66,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1176,2,2,30,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1177,5,1,45,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1178,2,3,45,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Poor
+1179,6,3,28,Shoes,Puffy winter coat,Volcom,L,Red,Male,Great
+1180,1,2,53,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+1181,1,2,34,Shorts,classic vans,Vans,10,Black,Male,Fair
+1182,4,2,44,Hat,stomper boots,black,8,Black,Female,Great
+1183,2,3,41,Shirt,light twirly dress,Free People,4,Pink,Female,Poor
+1184,1,1,61,Dress,Classic jene jacket,Levy,L,Blue,Female,Good
+1185,1,3,40,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+1186,5,1,58,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1187,2,3,15,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1188,4,2,27,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1189,6,1,56,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+1190,1,2,65,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1191,5,2,46,Hat,Old cowboy boots,Tough,13,Brown,Male,Fair
+1192,1,3,44,Shirt,High Heels Red,Vanity,6,Red,Female,Fair
+1193,2,2,65,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Poor
+1194,3,1,65,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1195,6,1,16,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1196,2,2,59,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Poor
+1197,6,3,28,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+1198,2,2,60,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1199,6,1,17,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+1200,4,1,44,Hat,Short shorts jene style,Levy,29,Blue,Female,Fair
+1201,6,2,29,Shirt,Small brown phish shirt - 2007,Concert,S,Brown,Male,Good
+1202,3,1,21,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+1203,3,1,60,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1204,2,1,58,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+1205,3,2,41,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1206,5,1,16,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1207,2,2,43,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1208,3,1,31,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Poor
+1209,4,1,52,Hat,Puffy winter coat,Volcom,L,Red,Male,Great
+1210,1,2,44,Shirt,classic vans,Vans,11,Red,Male,Good
+1211,4,2,36,Dress,classic vans,Vans,10,Black,Female,Fair
+1212,4,1,23,Pants,stomper boots,black,8,Black,Female,Great
+1213,3,1,35,Jacket,light twirly dress,Free People,4,Pink,Female,Poor
+1214,4,3,40,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1215,4,3,64,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1216,3,2,40,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+1217,3,3,62,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1218,4,3,28,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1219,4,3,70,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1220,2,3,62,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1221,5,1,51,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+1222,3,3,21,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+1223,3,2,46,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1224,2,3,19,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+1225,3,1,46,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1226,2,2,43,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1227,3,3,35,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1228,5,1,52,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1229,1,2,33,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+1230,2,1,17,Pants,Short shorts jene style,Levy,29,Blue,Female,Fair
+1231,2,1,31,Jacket,Small brown phish shirt - 2007,Concert,S,Brown,Male,Poor
+1232,1,3,56,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+1233,1,3,69,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1234,4,2,69,Sweatshirt,classic jenes,Levy,34,Blue,Male,Great
+1235,2,1,56,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1236,2,1,39,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1237,5,3,23,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1238,6,2,22,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Good
+1239,3,2,63,Pants,Puffy winter coat,Volcom,L,Red,Male,Poor
+1240,6,1,39,Jacket,classic vans,Vans,11,Red,Male,Good
+1241,5,3,31,Vest,classic vans,Vans,10,Black,Male,Good
+1242,6,2,67,Shoes,stomper boots,black,8,Black,Female,Great
+1243,1,1,17,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Poor
+1244,6,1,26,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1245,2,2,19,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1246,1,1,39,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+1247,2,3,18,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Great
+1248,1,1,42,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1249,1,3,31,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1250,4,2,54,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1251,4,3,56,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+1252,4,1,33,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1253,3,3,59,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1254,2,3,44,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+1255,4,1,57,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1256,6,3,44,Dress,Carhart logo hat,Carhart,M,Brown,Female,Fair
+1257,5,2,48,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1258,5,2,41,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1259,3,1,68,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1260,2,1,69,Shoes,Short shorts jene style,Levy,29,Blue,Female,Fair
+1261,4,3,60,Sweatshirt,Small brown phish shirt - 2007,Concert,S,Brown,Male,Poor
+1262,2,1,16,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Great
+1263,1,2,64,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1264,5,3,25,Shirt,classic jenes,Levy,34,Blue,Male,Great
+1265,5,3,39,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1266,3,2,45,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1267,6,2,35,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1268,2,1,34,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+1269,5,2,68,Shoes,Puffy winter coat,Volcom,L,Red,Male,Poor
+1270,6,3,55,Sweatshirt,classic vans,Vans,11,Red,Male,Good
+1271,5,3,30,Shorts,classic vans,Vans,10,Black,Male,Good
+1272,4,1,29,Hat,stomper boots,black,8,Black,Female,Great
+1273,5,2,53,Shirt,light twirly dress,Free People,4,Pink,Female,Poor
+1274,3,3,18,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+1275,4,2,53,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1276,4,1,30,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+1277,3,1,67,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1278,1,2,18,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1279,4,2,18,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1280,4,3,28,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1281,1,1,50,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+1282,4,1,59,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+1283,5,1,54,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1284,5,2,29,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+1285,6,1,32,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1286,5,3,28,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1287,1,2,61,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1288,2,1,51,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1289,1,2,66,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1290,4,2,31,Hat,Short shorts jene style,Levy,29,Blue,Female,Fair
+1291,5,1,48,Shirt,Small brown phish shirt - 2007,Concert,S,Brown,Male,Poor
+1292,5,1,25,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+1293,3,1,23,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1294,5,2,70,Jacket,classic jenes,Levy,34,Blue,Male,Great
+1295,3,2,40,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1296,6,3,31,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1297,1,3,70,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1298,2,3,54,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+1299,1,1,49,Hat,Puffy winter coat,Volcom,L,Red,Male,Poor
+1300,6,1,31,Shirt,classic vans,Vans,11,Red,Male,Good
+1301,2,2,20,Dress,classic vans,Vans,10,Black,Female,Good
+1302,5,2,40,Pants,stomper boots,black,8,Black,Female,Great
+1303,5,1,59,Jacket,light twirly dress,Free People,4,Pink,Female,Poor
+1304,3,1,67,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1305,1,2,48,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1306,3,1,37,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+1307,2,3,33,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1308,5,3,33,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1309,3,2,37,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1310,4,1,32,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1311,1,2,47,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+1312,2,1,25,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+1313,4,2,63,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1314,4,3,26,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+1315,6,2,59,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1316,2,2,16,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1317,6,3,41,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1318,4,2,60,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+1319,2,1,65,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+1320,4,3,28,Pants,Short shorts jene style,Levy,29,Blue,Female,Fair
+1321,4,3,43,Jacket,Small brown phish shirt - 2008,Concert,S,Brown,Male,Poor
+1322,3,2,21,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+1323,4,1,33,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1324,2,1,24,Sweatshirt,classic jenes,Levy,34,Blue,Male,Great
+1325,4,3,58,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1326,4,3,38,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1327,4,2,58,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1328,1,1,62,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Good
+1329,2,2,53,Pants,Puffy winter coat,Volcom,L,Red,Male,Poor
+1330,2,1,39,Jacket,classic vans,Vans,11,Red,Male,Good
+1331,6,3,53,Vest,classic vans,Vans,10,Black,Male,Good
+1332,3,2,49,Shoes,stomper boots,black,8,Black,Female,Great
+1333,5,1,51,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Poor
+1334,3,3,32,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1335,1,1,68,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1336,3,1,43,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+1337,6,1,34,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Great
+1338,6,1,56,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1339,4,3,67,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1340,5,1,28,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1341,3,3,25,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+1342,5,3,58,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1343,5,2,41,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1344,2,3,59,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1345,2,2,40,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+1346,5,1,23,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+1347,6,3,35,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1348,3,2,48,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Great
+1349,6,3,19,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Poor
+1350,4,2,30,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+1351,1,3,39,Sweatshirt,Small brown phish shirt - 2008,Concert,S,Brown,Male,Fair
+1352,2,2,60,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+1353,6,1,40,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1354,5,3,45,Shirt,classic jenes,Levy,34,Blue,Male,Good
+1355,2,3,59,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1356,6,2,47,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1357,2,3,60,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1358,1,3,45,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1359,1,1,48,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+1360,2,3,42,Sweatshirt,classic vans,Vans,11,Red,Male,Fair
+1361,5,1,26,Shorts,classic vans,Vans,10,Black,Male,Great
+1362,4,1,15,Hat,stomper boots,black,8,Black,Female,Poor
+1363,3,3,36,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+1364,3,1,20,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+1365,2,1,59,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1366,3,1,53,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1367,6,2,39,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1368,2,2,48,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1369,6,1,59,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1370,2,1,67,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1371,1,1,48,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+1372,5,3,64,Shirt,High Heels Red,Vanity,6,Red,Female,Fair
+1373,5,1,68,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1374,1,3,50,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1375,1,2,56,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1376,2,2,19,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1377,2,3,29,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1378,2,1,57,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1379,5,2,15,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+1380,5,1,17,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+1381,5,1,41,Shirt,Small brown phish shirt - 2008,Concert,S,Brown,Male,Good
+1382,3,3,29,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1383,4,3,21,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1384,2,1,35,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+1385,2,3,18,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1386,1,1,16,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1387,6,3,28,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1388,4,3,26,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1389,1,3,23,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+1390,5,1,32,Shirt,classic vans,Vans,11,Red,Male,Great
+1391,6,3,19,Dress,classic vans,Vans,10,Black,Female,Poor
+1392,2,3,60,Pants,stomper boots,black,8,Black,Female,Great
+1393,1,3,38,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+1394,5,3,19,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+1395,6,1,60,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1396,6,3,45,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1397,1,2,55,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1398,3,1,38,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Fair
+1399,2,3,69,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1400,5,2,65,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1401,5,3,67,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+1402,3,2,56,Jacket,High Heels Red,Vanity,6,Red,Female,Great
+1403,2,1,33,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1404,4,2,55,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1405,4,1,23,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1406,2,1,27,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Poor
+1407,6,2,62,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1408,4,3,53,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Fair
+1409,2,3,42,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Poor
+1410,5,1,55,Pants,Short shorts jene style,Levy,29,Blue,Female,Great
+1411,2,2,40,Jacket,Small brown phish shirt - 2008,Concert,S,Brown,Male,Good
+1412,1,1,27,Vest,light purple flowery dress,Lulus,4,Purple,Female,Great
+1413,6,1,36,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1414,4,1,68,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+1415,3,2,51,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1416,2,2,27,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1417,2,3,61,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1418,4,2,33,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Good
+1419,2,2,56,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+1420,3,1,61,Jacket,classic vans,Vans,11,Red,Male,Great
+1421,3,2,66,Vest,classic vans,Vans,10,Black,Male,Poor
+1422,1,1,20,Shoes,stomper boots,black,8,Black,Female,Great
+1423,5,3,54,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+1424,3,1,30,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+1425,6,1,66,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1426,4,3,15,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1427,1,3,28,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Great
+1428,1,1,50,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1429,5,1,52,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+1430,2,3,49,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1431,4,3,63,Shoes,Old cowboy boots,Tough,13,Brown,Male,Poor
+1432,2,2,55,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1433,2,1,42,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1434,1,2,24,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1435,1,2,38,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1436,5,2,17,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+1437,2,2,20,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+1438,4,3,69,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+1439,4,1,45,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1440,3,1,68,Shoes,Short shorts jene style,Levy,29,Blue,Female,Fair
+1441,4,2,63,Sweatshirt,Small brown phish shirt - 2009,Concert,S,Brown,Male,Poor
+1442,5,3,15,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1443,1,2,16,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1444,3,2,26,Shirt,classic jenes,Levy,34,Blue,Male,Poor
+1445,6,2,48,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1446,4,1,36,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1447,6,3,38,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1448,3,1,38,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+1449,3,1,63,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+1450,1,1,48,Sweatshirt,classic vans,Vans,11,Red,Male,Great
+1451,5,1,33,Shorts,classic vans,Vans,10,Black,Male,Good
+1452,5,1,25,Hat,stomper boots,black,8,Black,Female,Poor
+1453,1,1,53,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+1454,2,1,37,Dress,Classic jene jacket,Levy,L,Blue,Female,Good
+1455,4,2,58,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1456,4,2,23,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1457,3,2,54,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1458,3,2,33,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1459,5,1,65,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+1460,1,2,63,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1461,6,3,20,Hat,Old cowboy boots,Tough,13,Brown,Male,Poor
+1462,3,3,69,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+1463,4,2,67,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1464,2,1,57,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1465,5,2,58,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1466,2,2,44,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+1467,4,3,29,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+1468,6,3,32,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1469,6,1,15,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1470,5,1,16,Hat,Short shorts jene style,Levy,29,Blue,Female,Fair
+1471,4,2,45,Shirt,Small brown phish shirt - 2009,Concert,S,Brown,Male,Poor
+1472,4,1,39,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1473,6,3,30,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1474,5,3,70,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+1475,5,1,54,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1476,1,1,62,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1477,2,2,55,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1478,4,3,35,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+1479,4,2,41,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+1480,4,3,42,Shirt,classic vans,Vans,11,Red,Male,Great
+1481,1,2,18,Dress,classic vans,Vans,10,Black,Female,Good
+1482,6,2,18,Pants,stomper boots,black,8,Black,Female,Poor
+1483,4,2,58,Jacket,light twirly dress,Free People,4,Pink,Female,Good
+1484,2,1,70,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1485,4,3,70,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1486,4,3,47,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1487,5,3,18,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1488,5,2,45,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1489,6,1,48,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+1490,5,3,28,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1491,3,3,52,Pants,Old cowboy boots,Tough,13,Brown,Male,Poor
+1492,2,3,15,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+1493,3,3,33,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1494,3,3,33,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1495,1,3,56,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1496,5,1,29,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+1497,4,3,62,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+1498,3,2,26,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1499,6,2,49,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+1500,5,3,41,Pants,Short shorts jene style,Levy,29,Blue,Female,Fair
+1501,1,3,22,Jacket,Small brown phish shirt - 2009,Concert,S,Brown,Male,Poor
+1502,6,1,43,Vest,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1503,6,1,70,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1504,6,1,42,Sweatshirt,classic jenes,Levy,34,Blue,Male,Poor
+1505,2,2,29,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1506,1,1,65,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1507,6,2,17,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1508,5,3,40,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+1509,3,2,29,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+1510,2,3,62,Jacket,classic vans,Vans,11,Red,Male,Great
+1511,2,1,41,Vest,classic vans,Vans,10,Black,Male,Good
+1512,2,1,49,Shoes,stomper boots,black,8,Black,Female,Poor
+1513,5,2,27,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+1514,4,2,61,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1515,6,3,34,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1516,3,1,51,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1517,2,1,35,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Great
+1518,1,1,63,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1519,4,2,17,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+1520,4,1,51,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1521,5,2,36,Shoes,Old cowboy boots,Tough,13,Brown,Male,Poor
+1522,1,3,37,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1523,5,1,28,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1524,5,1,37,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1525,2,3,52,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1526,1,3,42,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+1527,6,1,59,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+1528,5,2,57,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+1529,3,2,34,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1530,6,2,16,Shoes,Short shorts jene style,Levy,29,Blue,Female,Fair
+1531,1,1,53,Sweatshirt,Small brown phish shirt - 2009,Concert,S,Brown,Male,Poor
+1532,4,1,67,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1533,1,1,36,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1534,5,2,37,Shirt,classic jenes,Levy,34,Blue,Male,Poor
+1535,1,2,63,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1536,5,2,36,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1537,3,1,29,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1538,1,1,36,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+1539,5,2,22,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+1540,5,2,19,Sweatshirt,classic vans,Vans,11,Red,Male,Great
+1541,3,3,58,Shorts,classic vans,Vans,10,Black,Male,Good
+1542,5,3,61,Hat,stomper boots,black,8,Black,Female,Poor
+1543,4,2,18,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+1544,4,3,40,Dress,Classic jene jacket,Levy,L,Blue,Female,Good
+1545,2,3,17,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1546,3,1,68,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1547,2,2,30,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1548,1,1,50,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1549,3,3,44,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+1550,3,3,22,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1551,5,1,57,Hat,Old cowboy boots,Tough,13,Brown,Male,Poor
+1552,5,2,22,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+1553,5,2,36,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+1554,5,3,22,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1555,2,3,58,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1556,6,1,18,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+1557,5,2,52,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1558,1,3,65,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+1559,5,2,41,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+1560,1,1,33,Hat,Short shorts jene style,Levy,29,Blue,Female,Fair
+1561,3,2,62,Shirt,Small brown phish shirt - 2010,Concert,S,Brown,Male,Great
+1562,3,3,67,Dress,light purple flowery dress,Lulus,4,Purple,Female,Poor
+1563,1,1,30,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1564,4,3,44,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+1565,3,2,34,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1566,1,1,52,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1567,6,3,62,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1568,6,2,58,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1569,5,1,50,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+1570,6,1,45,Shirt,classic vans,Vans,11,Red,Male,Poor
+1571,1,3,53,Dress,classic vans,Vans,10,Black,Female,Great
+1572,6,1,16,Pants,stomper boots,black,8,Black,Female,Good
+1573,3,2,27,Jacket,light twirly dress,Free People,4,Pink,Female,Fair
+1574,3,3,23,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1575,5,3,45,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1576,2,1,43,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1577,2,3,43,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+1578,6,1,63,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1579,6,1,65,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1580,6,2,67,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1581,1,1,51,Pants,Old cowboy boots,Tough,13,Brown,Male,Great
+1582,3,1,50,Jacket,High Heels Red,Vanity,6,Red,Female,Poor
+1583,2,1,54,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1584,3,3,15,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1585,6,3,24,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1586,4,1,38,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+1587,1,3,21,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1588,2,2,49,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1589,4,2,60,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+1590,5,3,55,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+1591,1,2,50,Jacket,Small brown phish shirt - 2010,Concert,S,Brown,Male,Good
+1592,3,1,56,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+1593,6,1,50,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+1594,6,2,46,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+1595,6,1,22,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1596,3,3,18,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1597,6,3,45,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1598,3,3,58,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+1599,3,2,48,Pants,Puffy winter coat,Volcom,L,Red,Male,Fair
+1600,4,2,32,Jacket,classic vans,Vans,11,Red,Male,Poor
+1601,2,1,17,Vest,classic vans,Vans,10,Black,Male,Great
+1602,2,1,50,Shoes,stomper boots,black,8,Black,Female,Good
+1603,5,3,44,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Great
+1604,2,2,58,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Poor
+1605,2,1,15,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1606,5,3,63,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1607,3,3,39,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Fair
+1608,6,3,61,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1609,1,2,19,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1610,2,2,64,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1611,3,3,57,Shoes,Old cowboy boots,Tough,13,Brown,Male,Fair
+1612,1,1,23,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1613,6,3,59,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1614,5,3,31,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1615,4,3,44,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Great
+1616,3,3,59,Dress,Carhart logo hat,Carhart,M,Brown,Female,Good
+1617,2,1,58,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+1618,6,1,15,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Fair
+1619,2,2,54,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Poor
+1620,4,2,36,Shoes,Short shorts jene style,Levy,29,Blue,Female,Fair
+1621,6,3,24,Sweatshirt,Small brown phish shirt - 2010,Concert,S,Brown,Male,Fair
+1622,2,1,18,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Poor
+1623,4,3,70,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+1624,2,1,58,Shirt,classic jenes,Levy,34,Blue,Male,Good
+1625,3,3,57,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Great
+1626,6,2,50,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1627,2,2,42,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1628,1,2,62,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1629,5,3,31,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+1630,2,1,32,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+1631,4,3,55,Shorts,classic vans,Vans,10,Black,Male,Good
+1632,2,1,40,Hat,stomper boots,black,8,Black,Female,Good
+1633,5,3,16,Shirt,light twirly dress,Free People,4,Pink,Female,Great
+1634,2,2,19,Dress,Classic jene jacket,Levy,L,Blue,Female,Poor
+1635,1,2,62,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Great
+1636,5,1,27,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1637,2,2,23,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+1638,5,2,57,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1639,3,2,64,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1640,3,2,67,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1641,3,2,40,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+1642,1,2,34,Shirt,High Heels Red,Vanity,6,Red,Female,Fair
+1643,3,2,67,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1644,2,1,47,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1645,4,1,56,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1646,2,2,38,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1647,3,3,55,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1648,5,3,34,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1649,6,1,60,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+1650,6,2,36,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+1651,1,1,17,Shirt,Small brown phish shirt - 2010,Concert,S,Brown,Male,Good
+1652,6,1,15,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1653,3,2,60,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1654,6,2,49,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+1655,1,1,17,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1656,1,3,37,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1657,2,2,27,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1658,3,3,46,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1659,5,3,23,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+1660,3,1,20,Shirt,classic vans,Vans,11,Red,Male,Great
+1661,3,3,42,Dress,classic vans,Vans,10,Black,Female,Fair
+1662,2,1,38,Pants,stomper boots,black,8,Black,Female,Good
+1663,5,1,56,Jacket,light twirly dress,Free People,4,Pink,Female,Great
+1664,2,3,46,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1665,4,2,60,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1666,3,1,40,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1667,1,2,43,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1668,6,2,63,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1669,5,2,55,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1670,2,3,51,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1671,3,1,24,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+1672,6,1,68,Jacket,High Heels Red,Vanity,6,Red,Female,Fair
+1673,5,3,45,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1674,5,3,63,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1675,3,2,31,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1676,1,2,17,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1677,1,1,69,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1678,3,2,45,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1679,2,2,43,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+1680,3,2,18,Pants,Short shorts jene style,Levy,29,Blue,Female,Great
+1681,1,1,63,Jacket,Small brown phish shirt - 2011,Concert,S,Brown,Male,Good
+1682,3,3,65,Vest,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1683,4,2,68,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1684,6,2,18,Sweatshirt,classic jenes,Levy,34,Blue,Male,Poor
+1685,4,1,40,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1686,3,3,49,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1687,2,1,54,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1688,3,2,22,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Great
+1689,3,1,61,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+1690,6,1,22,Jacket,classic vans,Vans,11,Red,Male,Great
+1691,4,3,44,Vest,classic vans,Vans,10,Black,Male,Fair
+1692,1,3,23,Shoes,stomper boots,black,8,Black,Female,Good
+1693,2,2,40,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Great
+1694,3,1,27,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1695,3,2,40,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1696,4,3,53,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1697,2,1,61,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+1698,5,2,17,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1699,3,1,22,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1700,6,1,33,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1701,1,3,43,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+1702,2,2,57,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Fair
+1703,2,1,55,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1704,4,1,30,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1705,1,3,20,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1706,4,1,27,Dress,Carhart logo hat,Carhart,M,Brown,Female,Fair
+1707,4,3,35,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1708,6,1,23,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+1709,6,1,44,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+1710,2,1,69,Shoes,Short shorts jene style,Levy,29,Blue,Female,Great
+1711,5,3,35,Sweatshirt,Small brown phish shirt - 2011,Concert,S,Brown,Male,Good
+1712,3,3,53,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1713,1,1,61,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1714,4,1,39,Shirt,classic jenes,Levy,34,Blue,Male,Poor
+1715,3,3,39,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1716,4,2,22,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1717,1,3,26,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1718,6,3,37,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1719,4,2,32,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+1720,1,3,53,Sweatshirt,classic vans,Vans,11,Red,Male,Great
+1721,5,1,65,Shorts,classic vans,Vans,10,Black,Male,Fair
+1722,2,2,38,Hat,stomper boots,black,8,Black,Female,Good
+1723,6,2,66,Shirt,light twirly dress,Free People,4,Pink,Female,Great
+1724,2,2,29,Dress,Classic jene jacket,Levy,L,Blue,Female,Good
+1725,4,2,24,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1726,2,2,40,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1727,5,1,22,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1728,1,1,23,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1729,1,2,24,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1730,3,2,46,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1731,1,3,29,Hat,Old cowboy boots,Tough,13,Brown,Male,Good
+1732,6,1,36,Shirt,High Heels Red,Vanity,6,Red,Female,Fair
+1733,2,1,28,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1734,1,3,19,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1735,5,1,63,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1736,1,1,50,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1737,4,2,51,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1738,6,1,63,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1739,6,3,50,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+1740,1,3,19,Hat,Short shorts jene style,Levy,29,Blue,Female,Great
+1741,1,1,39,Shirt,Small brown phish shirt - 2011,Concert,S,Brown,Male,Good
+1742,6,1,22,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1743,6,1,24,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1744,3,3,31,Jacket,classic jenes,Levy,34,Blue,Male,Poor
+1745,5,3,34,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1746,4,2,40,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1747,4,3,52,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1748,6,1,25,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1749,1,1,53,Hat,Puffy winter coat,Volcom,L,Red,Male,Good
+1750,4,1,60,Shirt,classic vans,Vans,11,Red,Male,Great
+1751,2,3,48,Dress,classic vans,Vans,10,Black,Female,Fair
+1752,3,2,56,Pants,stomper boots,black,8,Black,Female,Good
+1753,5,3,49,Jacket,light twirly dress,Free People,4,Pink,Female,Great
+1754,2,3,38,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1755,4,1,50,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Poor
+1756,6,3,61,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Good
+1757,2,2,69,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1758,3,3,67,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1759,4,2,17,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Poor
+1760,1,2,18,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+1761,4,3,48,Pants,Old cowboy boots,Tough,13,Brown,Male,Good
+1762,5,1,49,Jacket,High Heels Red,Vanity,6,Red,Female,Fair
+1763,2,1,40,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1764,2,2,33,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Poor
+1765,5,2,45,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1766,2,1,56,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Fair
+1767,6,3,62,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1768,2,3,17,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1769,1,2,39,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+1770,4,2,17,Pants,Short shorts jene style,Levy,29,Blue,Female,Poor
+1771,3,3,21,Jacket,Small brown phish shirt - 2011,Concert,S,Brown,Male,Great
+1772,4,1,57,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+1773,4,2,67,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1774,3,3,35,Sweatshirt,classic jenes,Levy,34,Blue,Male,Great
+1775,6,3,41,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Poor
+1776,4,1,27,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Good
+1777,6,3,23,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+1778,3,2,15,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Good
+1779,3,3,63,Pants,Puffy winter coat,Volcom,L,Red,Male,Good
+1780,5,1,18,Jacket,classic vans,Vans,11,Red,Male,Good
+1781,4,1,49,Vest,classic vans,Vans,10,Black,Male,Great
+1782,1,2,70,Shoes,stomper boots,black,8,Black,Female,Good
+1783,6,1,15,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Poor
+1784,1,3,48,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Great
+1785,4,2,40,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1786,5,1,62,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Fair
+1787,4,2,39,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Great
+1788,1,2,17,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1789,5,1,48,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1790,4,3,28,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1791,1,1,18,Shoes,Old cowboy boots,Tough,13,Brown,Male,Good
+1792,6,3,24,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+1793,2,3,40,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1794,4,3,40,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+1795,3,3,67,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+1796,6,2,41,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+1797,2,3,50,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1798,6,3,63,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Fair
+1799,2,3,21,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+1800,4,3,69,Shoes,Short shorts jene style,Levy,29,Blue,Female,Poor
+1801,2,1,54,Sweatshirt,Small brown phish shirt - 2012,Concert,S,Brown,Male,Good
+1802,1,1,55,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+1803,4,1,67,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+1804,5,3,46,Shirt,classic jenes,Levy,34,Blue,Male,Good
+1805,6,1,37,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1806,4,1,70,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Great
+1807,3,1,52,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1808,6,1,17,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+1809,5,2,50,Shoes,Puffy winter coat,Volcom,L,Red,Male,Fair
+1810,3,3,37,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+1811,5,3,24,Shorts,classic vans,Vans,10,Black,Male,Fair
+1812,3,1,58,Hat,stomper boots,black,8,Black,Female,Fair
+1813,3,1,34,Shirt,light twirly dress,Free People,4,Pink,Female,Poor
+1814,5,2,40,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+1815,6,3,37,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1816,2,1,68,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+1817,3,2,45,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Poor
+1818,3,2,60,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1819,4,2,53,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1820,6,2,48,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1821,2,3,15,Hat,Old cowboy boots,Tough,13,Brown,Male,Great
+1822,4,3,54,Shirt,High Heels Red,Vanity,6,Red,Female,Poor
+1823,3,3,63,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Good
+1824,3,3,34,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Fair
+1825,2,1,43,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+1826,3,3,30,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+1827,5,2,23,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+1828,1,1,19,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Great
+1829,5,2,29,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Good
+1830,3,3,26,Hat,Short shorts jene style,Levy,29,Blue,Female,Fair
+1831,1,1,32,Shirt,Small brown phish shirt - 2012,Concert,S,Brown,Male,Fair
+1832,2,2,46,Dress,light purple flowery dress,Lulus,4,Purple,Female,Poor
+1833,6,3,20,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+1834,5,1,63,Jacket,classic jenes,Levy,34,Blue,Male,Fair
+1835,5,3,35,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Poor
+1836,2,3,45,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Great
+1837,5,1,36,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+1838,2,3,70,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Great
+1839,3,2,18,Hat,Puffy winter coat,Volcom,L,Red,Male,Fair
+1840,6,1,57,Shirt,classic vans,Vans,11,Red,Male,Good
+1841,1,1,45,Dress,classic vans,Vans,10,Black,Female,Great
+1842,1,1,24,Pants,stomper boots,black,8,Black,Female,Good
+1843,4,1,69,Jacket,light twirly dress,Free People,4,Pink,Female,Poor
+1844,2,2,66,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Good
+1845,3,3,45,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1846,3,2,55,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+1847,1,1,64,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Poor
+1848,1,3,16,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Great
+1849,5,1,42,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1850,2,2,62,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Fair
+1851,1,1,42,Pants,Old cowboy boots,Tough,13,Brown,Male,Great
+1852,4,1,62,Jacket,High Heels Red,Vanity,6,Red,Female,Poor
+1853,6,3,38,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1854,1,2,65,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1855,3,1,27,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1856,5,2,45,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+1857,6,3,63,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1858,6,2,67,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1859,5,2,21,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+1860,3,2,34,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+1861,2,3,23,Jacket,Small brown phish shirt - 2012,Concert,S,Brown,Male,Good
+1862,2,3,17,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+1863,2,2,35,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+1864,2,2,60,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+1865,6,3,40,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1866,3,2,31,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1867,3,2,28,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1868,5,3,43,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+1869,4,2,52,Pants,Puffy winter coat,Volcom,L,Red,Male,Fair
+1870,1,3,31,Jacket,classic vans,Vans,11,Red,Male,Poor
+1871,5,2,45,Vest,classic vans,Vans,10,Black,Male,Great
+1872,6,3,34,Shoes,stomper boots,black,8,Black,Female,Good
+1873,1,1,50,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Great
+1874,4,2,30,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+1875,1,3,52,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1876,4,2,42,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+1877,4,3,46,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+1878,2,2,19,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1879,3,1,48,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1880,1,3,49,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1881,5,1,27,Shoes,Old cowboy boots,Tough,13,Brown,Male,Great
+1882,3,2,24,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Poor
+1883,3,1,45,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1884,4,2,55,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1885,2,2,65,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1886,2,2,19,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+1887,2,1,32,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1888,1,3,21,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+1889,4,2,31,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1890,6,3,64,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+1891,4,2,22,Sweatshirt,Small brown phish shirt - 2012,Concert,S,Brown,Male,Good
+1892,3,2,18,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+1893,2,3,41,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+1894,1,2,39,Shirt,classic jenes,Levy,34,Blue,Male,Good
+1895,2,1,57,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1896,5,1,49,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1897,4,3,45,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1898,4,1,70,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+1899,6,1,51,Shoes,Puffy winter coat,Volcom,L,Red,Male,Fair
+1900,2,2,17,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+1901,5,3,53,Shorts,classic vans,Vans,10,Black,Male,Great
+1902,3,3,61,Hat,stomper boots,black,8,Black,Female,Good
+1903,1,3,24,Shirt,light twirly dress,Free People,4,Pink,Female,Great
+1904,6,3,38,Dress,Classic jene jacket,Levy,L,Blue,Female,Fair
+1905,1,1,33,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1906,5,3,34,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+1907,3,1,50,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1908,1,2,59,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1909,5,2,42,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1910,4,1,69,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1911,5,2,60,Hat,Old cowboy boots,Tough,13,Brown,Male,Great
+1912,4,2,18,Shirt,High Heels Red,Vanity,6,Red,Female,Poor
+1913,3,3,55,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1914,3,3,17,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1915,6,1,33,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1916,3,2,66,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+1917,2,2,41,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1918,4,1,34,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1919,2,3,56,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1920,5,1,45,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+1921,4,2,32,Shirt,Small brown phish shirt - 2013,Concert,S,Brown,Male,Good
+1922,1,3,53,Dress,light purple flowery dress,Lulus,4,Purple,Female,Good
+1923,6,2,62,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+1924,2,1,53,Jacket,classic jenes,Levy,34,Blue,Male,Good
+1925,2,3,20,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1926,3,1,38,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1927,6,2,25,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1928,6,3,37,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+1929,1,1,65,Hat,Puffy winter coat,Volcom,L,Red,Male,Fair
+1930,5,3,67,Shirt,classic vans,Vans,11,Red,Male,Poor
+1931,3,1,21,Dress,classic vans,Vans,10,Black,Female,Great
+1932,1,1,50,Pants,stomper boots,black,8,Black,Female,Good
+1933,5,2,19,Jacket,light twirly dress,Free People,4,Pink,Female,Great
+1934,1,3,68,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+1935,4,1,29,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1936,2,2,63,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+1937,2,2,44,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Good
+1938,6,2,52,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1939,3,3,50,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1940,6,3,25,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1941,4,3,29,Pants,Old cowboy boots,Tough,13,Brown,Male,Great
+1942,4,1,63,Jacket,High Heels Red,Vanity,6,Red,Female,Poor
+1943,1,2,39,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1944,2,2,29,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1945,3,2,51,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1946,1,1,25,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+1947,3,1,25,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1948,5,3,20,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+1949,3,1,36,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Fair
+1950,3,3,63,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+1951,5,3,45,Jacket,Small brown phish shirt - 2013,Concert,S,Brown,Male,Good
+1952,4,3,20,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+1953,3,1,51,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Great
+1954,4,2,16,Sweatshirt,classic jenes,Levy,34,Blue,Male,Good
+1955,4,1,51,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+1956,2,1,59,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1957,5,2,26,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Poor
+1958,1,2,27,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Fair
+1959,3,1,38,Pants,Puffy winter coat,Volcom,L,Red,Male,Fair
+1960,6,1,47,Jacket,classic vans,Vans,11,Red,Male,Poor
+1961,4,2,35,Vest,classic vans,Vans,10,Black,Male,Great
+1962,2,1,68,Shoes,stomper boots,black,8,Black,Female,Good
+1963,1,1,16,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Great
+1964,3,3,41,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+1965,6,3,59,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1966,2,1,42,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+1967,4,1,52,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+1968,3,1,42,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Poor
+1969,1,3,49,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Good
+1970,2,3,40,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+1971,6,1,62,Shoes,Old cowboy boots,Tough,13,Brown,Male,Great
+1972,2,3,31,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Poor
+1973,4,2,15,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Great
+1974,5,1,15,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+1975,4,1,29,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Fair
+1976,5,2,60,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+1977,2,1,25,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Poor
+1978,3,2,66,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Good
+1979,2,3,30,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Fair
+1980,6,3,41,Shoes,Short shorts jene style,Levy,29,Blue,Female,Good
+1981,3,2,24,Sweatshirt,Small brown phish shirt - 2013,Concert,S,Brown,Male,Good
+1982,3,2,54,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Good
+1983,6,3,67,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+1984,6,1,18,Shirt,classic jenes,Levy,34,Blue,Male,Great
+1985,4,3,28,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+1986,4,3,56,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+1987,1,2,69,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Great
+1988,1,1,20,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Poor
+1989,6,3,17,Shoes,Puffy winter coat,Volcom,L,Red,Male,Good
+1990,6,1,62,Sweatshirt,classic vans,Vans,11,Red,Male,Fair
+1991,5,1,26,Shorts,classic vans,Vans,10,Black,Male,Good
+1992,5,2,59,Hat,stomper boots,black,8,Black,Female,Good
+1993,1,1,57,Shirt,light twirly dress,Free People,4,Pink,Female,Good
+1994,3,2,27,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+1995,1,3,67,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+1996,5,2,61,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+1997,5,1,70,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+1998,3,3,48,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+1999,3,1,16,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Fair
+2000,6,2,42,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Great
+2001,3,2,26,Hat,Old cowboy boots,Tough,13,Brown,Male,Poor
+2002,1,3,15,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+2003,3,3,55,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+2004,4,1,28,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Good
+2005,3,1,22,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Good
+2006,2,3,21,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+2007,6,3,25,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Great
+2008,1,2,59,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Poor
+2009,5,1,57,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+2010,2,3,61,Hat,Short shorts jene style,Levy,29,Blue,Female,Good
+2011,6,3,15,Shirt,Small brown phish shirt - 2013,Concert,S,Brown,Male,Fair
+2012,6,1,30,Dress,light purple flowery dress,Lulus,4,Purple,Female,Great
+2013,5,1,25,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Poor
+2014,5,1,27,Jacket,classic jenes,Levy,34,Blue,Male,Good
+2015,1,3,20,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Fair
+2016,5,3,29,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Good
+2017,4,2,48,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+2018,4,3,15,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Good
+2019,5,2,32,Hat,Puffy winter coat,Volcom,L,Red,Male,Great
+2020,6,3,18,Shirt,classic vans,Vans,11,Red,Male,Good
+2021,5,1,53,Dress,classic vans,Vans,10,Black,Female,Fair
+2022,6,2,34,Pants,stomper boots,black,8,Black,Female,Fair
+2023,5,3,65,Jacket,light twirly dress,Free People,4,Pink,Female,Poor
+2024,3,3,48,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Fair
+2025,3,2,61,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Fair
+2026,3,2,61,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+2027,3,2,19,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Great
+2028,3,2,26,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+2029,1,2,25,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+2030,3,1,30,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Poor
+2031,5,3,40,Pants,Old cowboy boots,Tough,13,Brown,Male,Great
+2032,1,1,68,Jacket,High Heels Red,Vanity,6,Red,Female,Good
+2033,2,2,47,Vest,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+2034,6,3,22,Shoes,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+2035,6,2,29,Sweatshirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+2036,1,2,20,Shorts,Carhart logo hat,Carhart,M,Brown,Unisex,Good
+2037,6,1,30,Hat,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Fair
+2038,3,2,33,Shirt,Old trendy black high waisted,Levy,30,Black,Female,Good
+2039,5,3,69,Dress,Australian beach sweatshirt,Champion,L,Grey,Female,Good
+2040,5,1,65,Pants,Short shorts jene style,Levy,29,Blue,Female,Good
+2041,5,2,27,Jacket,Small brown phish shirt - 2014,Concert,S,Brown,Male,Great
+2042,4,3,63,Vest,light purple flowery dress,Lulus,4,Purple,Female,Good
+2043,4,3,17,Shoes,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Fair
+2044,3,1,48,Sweatshirt,classic jenes,Levy,34,Blue,Male,Fair
+2045,2,3,35,Shorts,Drapey paper bag pants,Madewell,6,Orange,Female,Poor
+2046,4,1,69,Hat,Solid dual pocket denim,Levy,M,Blue,Female,Fair
+2047,3,3,15,Shirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Fair
+2048,4,1,39,Dress,Wool vest with breast pocket,Patagonia,M,Blue,Female,Poor
+2049,2,1,61,Pants,Puffy winter coat,Volcom,L,Red,Male,Great
+2050,2,2,31,Jacket,classic vans,Vans,11,Red,Male,Good
+2051,3,1,69,Vest,classic vans,Vans,10,Black,Male,Great
+2052,1,3,57,Shoes,stomper boots,black,8,Black,Female,Fair
+2053,5,3,56,Sweatshirt,light twirly dress,Free People,4,Pink,Female,Good
+2054,2,3,48,Shorts,Classic jene jacket,Levy,L,Blue,Unisex,Great
+2055,3,3,59,Hat,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+2056,5,1,36,Shirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Poor
+2057,3,1,45,Dress,Vintage Bondi Beach Shirt,Champion,L,Red,Female,Good
+2058,1,3,68,Pants,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+2059,6,3,56,Jacket,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+2060,3,3,30,Vest,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Poor
+2061,1,2,56,Shoes,Old cowboy boots,Tough,13,Brown,Male,Great
+2062,3,3,67,Sweatshirt,High Heels Red,Vanity,6,Red,Female,Good
+2063,1,3,20,Shorts,Classic Levy Shirt,Levy,M,Grey,Female,Fair
+2064,2,3,53,Hat,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+2065,3,2,48,Shirt,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+2066,3,3,64,Dress,Carhart logo hat,Carhart,M,Brown,Female,Great
+2067,5,2,61,Pants,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+2068,1,1,30,Jacket,Old trendy black high waisted,Levy,30,Black,Female,Fair
+2069,2,1,41,Vest,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+2070,1,3,67,Shoes,Short shorts jene style,Levy,29,Blue,Female,Poor
+2071,6,2,67,Sweatshirt,Small brown phish shirt - 2014,Concert,S,Brown,Male,Good
+2072,2,1,52,Shorts,light purple flowery dress,Lulus,4,Purple,Female,Fair
+2073,5,2,23,Hat,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+2074,1,3,38,Shirt,classic jenes,Levy,34,Blue,Male,Good
+2075,5,2,69,Dress,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+2076,5,1,39,Pants,Solid dual pocket denim,Levy,M,Blue,Female,Great
+2077,6,3,67,Jacket,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+2078,6,1,64,Vest,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+2079,6,3,35,Shoes,Puffy winter coat,Volcom,L,Red,Male,Fair
+2080,3,1,53,Sweatshirt,classic vans,Vans,11,Red,Male,Poor
+2081,1,2,50,Shorts,classic vans,Vans,10,Black,Male,Fair
+2082,2,3,31,Hat,stomper boots,black,8,Black,Female,Fair
+2083,2,3,43,Shirt,light twirly dress,Free People,4,Pink,Female,Poor
+2084,4,3,50,Dress,Classic jene jacket,Levy,L,Blue,Female,Great
+2085,3,2,54,Pants,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+2086,2,1,15,Jacket,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+2087,3,1,62,Vest,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+2088,4,3,39,Shoes,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+2089,4,1,69,Sweatshirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+2090,1,3,65,Shorts,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+2091,1,3,22,Hat,Old cowboy boots,Tough,13,Brown,Male,Poor
+2092,1,3,55,Shirt,High Heels Red,Vanity,6,Red,Female,Good
+2093,1,1,65,Dress,Classic Levy Shirt,Levy,M,Grey,Female,Good
+2094,4,1,27,Pants,Classic frat shorts,Vineyard Vines,31,Pink,Male,Great
+2095,6,2,64,Jacket,Colorado Flag Shirt tight,Coloradical,S,Pink,Female,Poor
+2096,1,2,32,Vest,Carhart logo hat,Carhart,M,Brown,Unisex,Great
+2097,1,2,26,Shoes,Vintage Mac Demarco Hat,Yiin,M,White,Unisex,Good
+2098,6,2,48,Sweatshirt,Old trendy black high waisted,Levy,30,Black,Female,Fair
+2099,6,2,43,Shorts,Australian beach sweatshirt,Champion,L,Grey,Unisex,Great
+2100,2,3,64,Hat,Short shorts jene style,Levy,29,Blue,Female,Poor
+2101,2,3,52,Shirt,Small brown phish shirt - 2014,Concert,S,Brown,Male,Good
+2102,5,2,31,Dress,light purple flowery dress,Lulus,4,Purple,Female,Fair
+2103,5,3,18,Pants,Green shirt with blue namaste symbol,Enlight,L,Green,Unisex,Good
+2104,5,3,52,Jacket,classic jenes,Levy,34,Blue,Male,Good
+2105,6,1,70,Vest,Drapey paper bag pants,Madewell,6,Orange,Female,Good
+2106,3,3,48,Shoes,Solid dual pocket denim,Levy,M,Blue,Female,Great
+2107,3,1,60,Sweatshirt,Wolf shirt with snow,HippyTree,L,Light Blue,Male,Good
+2108,2,3,56,Shorts,Wool vest with breast pocket,Patagonia,M,Blue,Male,Fair
+2109,1,2,33,Hat,Puffy winter coat,Volcom,L,Red,Male,Fair
+2110,4,2,37,Shirt,classic vans,Vans,11,Red,Male,Poor
+2111,2,2,18,Dress,classic vans,Vans,10,Black,Female,Fair
+2112,1,1,68,Pants,stomper boots,black,8,Black,Female,Fair
+2113,4,3,69,Jacket,light twirly dress,Free People,4,Pink,Female,Poor
+2114,6,1,57,Vest,Classic jene jacket,Levy,L,Blue,Unisex,Great
+2115,2,1,25,Shoes,grey sweatshirt plain,Champion,XL,Grey,Male,Good
+2116,1,2,55,Sweatshirt,Old beatup steamboat shirt,Steamboat,XXL,White,Male,Great
+2117,4,1,69,Shorts,Vintage Bondi Beach Shirt,Champion,L,Red,Male,Fair
+2118,6,1,63,Hat,Vintage Old British Plaid Pants,Plaid,34,Red,Male,Good
+2119,3,1,32,Shirt,Light blue grey wolf by creek,Onix,L,Blue,Unisex,Great
+2120,2,3,20,Dress,Flower Knitted dress,Lovely Vintage,M,Yellow,Female,Good
+2121,6,1,32,Pants,Old cowboy boots,Tough,13,Brown,Male,Poor

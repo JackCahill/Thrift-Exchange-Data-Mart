@@ -1,0 +1,4 @@
+LocationID,LocationCategoryID,LocationAddress,LocationCity,LocationState,LocationZip
+1,2,51 Broadway St,Denver,CO,80203
+2,3,813 Pearl St,Boulder,CO,80302
+3,1,127 Elk Ave,Crested Butte,CO,81224
